@@ -7,3 +7,9 @@
 5. CoNLL 2003 est un corpus multilingue qui contient des textes en anglais et en allemand.
 
 ## Partie 2
+1. Je voudrais concevoir un programme pour obtenir automatiquement le contenu du texte sur les pages web et produire un résumé court.
+2. Maintenant, je traite principalement sur le sujet d'obtenir le corpus depuis wikipédia et générer l'abstraite de ce corpus.
+3. Je vais réaliser la tâche de génération abstraite.
+4. Je récupère les données sur Internet en page html, et je les nettoie et les transforme en fichier txt.
+5. Je vais les récupérer sur les page web tel que Wikipédia.
+6. Oui, ces données sont libre d'accès.
